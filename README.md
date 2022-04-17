@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my colegue info page.
 - 🌱 I’m currently learning JS and jQuery
 - 💬 Ask me about Frontend 
-- 📫 How to reach me: https:lukaszturowski.xyz
+- 📫 How to reach me: https://lukaszturowski.xyz
 - ⚡ Carrier Direction: Frontend Web Dev
 
 <!--
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my colegue info page.
 - 🌱 I’m currently learning JS and jQuery
 - 💬 Ask me about Frontend 
-- 📫 How to reach me: https:lukaszturowski.xyz
+- 📫 How to reach me: https://lukaszturowski.xyz
 - ⚡ Carrier Direction: Frontend Web Dev
 -->
