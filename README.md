@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my colegue info page.
-- 🌱 I’m currently learning JS and jQuery
+- 🔭 I’m currently working on bigger project with arris.agency.pl 
+- 🌱 I’m currently learning JS and Vue
 - 💬 Ask me about Frontend 
 - 📫 How to reach me: https://lukaszturowski.xyz
 - ⚡ Carrier Direction: Frontend Web Dev
